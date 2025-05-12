@@ -22,7 +22,7 @@
 🌐 Connect through: <br>[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/stai) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:singweit2@gmail.com) 
 
 
-<br><br><br>
+<br><br>
 
 <p align="right"> In a world today where AI is evolving so quickly, how do we constantly leverage AI to boost productivity? &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </p>
 
