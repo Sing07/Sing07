@@ -18,23 +18,18 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sing07&theme=github_dark_dimmed&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 </div>
 
-🌐 Connect through: <br>[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/stai) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:singweit2@gmail.com) 
+`🌐 Connect through:` <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/stai) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:singweit2@gmail.com) 
 
 <br>
 
-<p align="right"> In a world today where AI is evolving so quickly, how do we constantly leverage AI to boost productivity? &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </p>
-
 `
-                Technology may accelerate, but values must lead the way.
+As technology accelerates, may values lead the way
+`  
 `
-
-<div align="center" style="margin:0;"><h2 style="margin:0;">As we create smarter machines, let's not forget to be better humans.</h2></div>
-
-### **&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;When machines learn fast, humans must learn faster—about responsibility.**
+as we create smarter machines, let's not forget to be better humans
+`
+<br><br>
 
 <p><strong><em>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   In a world coded by algorithms, empathy must be our strongest language.</em></strong></p>
-
-<p align="right">Technology may accelerate, but values must lead the way.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
-
 <p align="center"><em>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;As AI races ahead, let us guide it with wisdom, not fear.</em></p>
